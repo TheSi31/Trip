@@ -1,0 +1,5 @@
+@media screen and (max-width: 640px) {
+    .custom-autocomplete.ant-select-single.ant-select-lg .ant-select-selector {
+        border-radius: 0;
+    }
+}

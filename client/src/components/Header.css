@@ -1,0 +1,7 @@
+.custom-dropdown .ant-dropdown-menu{
+    background-color: rgba(82, 0, 217) !important;
+    border-radius: 8px;
+}
+.custom-dropdown .ant-dropdown-menu .ant-dropdown-menu-item{
+    color: white;
+}
